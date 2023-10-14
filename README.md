@@ -33,7 +33,7 @@
 
 Рис.1 - Скетчинг
 
-[Видео. Производство тотема](https://github.com/Darya-Akhiyarova/totem/blob/main/тотем.mp4)
+[Видео. Производство тотема](https://drive.google.com/file/d/1OR81s60e9v0lPw6OBSEBdLDB7j_MFpVi/view?usp=drivesdk) 
 
 ### Результат
 
